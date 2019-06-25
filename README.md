@@ -1,2 +1,2 @@
 # NRF52
-NRF52 drivers base on Arduino Core
+NRF52 device drivers base on Arduino Core
